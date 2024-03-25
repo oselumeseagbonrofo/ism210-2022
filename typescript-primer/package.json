@@ -1,0 +1,27 @@
+{
+  "name": "typescript-primer",
+  "version": "0.0.1",
+  "description": "typescript primer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Oselumese Agbonrofo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oselumeseagbonrofo/typescript-primer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oselumeseagbonrofo/typescript-primer/issues"
+  },
+  "homepage": "https://github.com/oselumeseagbonrofo/typescript-primer#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.3"
+  }
+}
